@@ -9,7 +9,7 @@
 <br />
 <br />
 
-### One more fact! You are cool!😉 ###
+### One more fact: you are cool!😉 ###
 
 <!-- ![Alt Text](https://github.com/TorgaW/TorgaW/blob/main/title.gif) -->
 <!--
