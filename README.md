@@ -1,14 +1,15 @@
 # Hello there!!! 👋👋👋 #
-### Hey, you... you are cool!😉 ###
+
+
 
 🔭 I’m currently working with my friends in web development. I learned React.js and really love it! 
-
 🌱 I’m currently learning GLSL and HLSL to create awesome graphics with modern technologies!
-
 ✨ I hope to become a game developer with my 🤩DREAM PROJECT🤩
-
 ⚡ Fun fact: I like to 🤓experiment🤓 with neural networks and create some fun filters for photos!
 
+
+
+#### One more fact! You are cool!😉 ####
 <!-- ![Alt Text](https://github.com/TorgaW/TorgaW/blob/main/title.gif) -->
 <!--
 **cyber-ikaros/cyber-ikaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
