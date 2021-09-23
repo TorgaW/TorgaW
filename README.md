@@ -1,4 +1,5 @@
-### Hello there 👋👋👋
+# Hello there!!! 👋👋👋 #
+### Hey, you... you are cool!😉 ###
 
 🔭 I’m currently working with my friends in web development. I learned React.js and really love it! 
 
