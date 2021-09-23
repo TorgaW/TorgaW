@@ -8,7 +8,9 @@
 ⚡ Fun fact: I like to 🤓experiment🤓 with neural networks and create some fun filters for photos!<br />
 <br />
 <br />
-#### One more fact! You are cool!😉 ####
+
+### One more fact! You are cool!😉 ###
+
 <!-- ![Alt Text](https://github.com/TorgaW/TorgaW/blob/main/title.gif) -->
 <!--
 **cyber-ikaros/cyber-ikaros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
