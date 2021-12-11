@@ -6,6 +6,7 @@
 🌱 I’m currently learning GLSL and HLSL to create awesome graphics with modern technologies!<br />
 ✨ I hope to become a game developer with my 🤩DREAM PROJECT🤩<br />
 ⚡ Fun fact: I like to 🤓experiment🤓 with neural networks and create some fun filters for photos!<br />
+💲  Currently experiment with crypto!  💲<br />
 <br />
 <br />
 
